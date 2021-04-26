@@ -1,2 +1,2 @@
 # backend-golang
-Api Golang, Autenticação
+Api Golang, autenticação jwt
